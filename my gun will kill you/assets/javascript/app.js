@@ -8,7 +8,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['glocked', 'carti', 'kok', 'nba', 'weirdo', '<3'];
+  brandDescription = ['glocked#7777', 'carti', 'kok', 'nba', 'weirdo', '<3'];
 
   titleChanger = (text, delay) => {
     if (!text) return;
