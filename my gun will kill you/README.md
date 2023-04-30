@@ -1,7 +1,6 @@
-# obnoxious.club
-🌹Website for my team's portfolio
+#glocked.xyz
 
-Preview - https://obnoxious.club/
+Preview - https://glocked.xyz
 
 ![Made with love in Poland](https://madewithlove.now.sh/pl?heart=true)
 
